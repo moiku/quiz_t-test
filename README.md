@@ -1,1 +1,1 @@
-# quiz_Statistics
+# 生成AI を用いた統計学の学習用練習問題
